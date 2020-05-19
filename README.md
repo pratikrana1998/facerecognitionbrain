@@ -24,4 +24,5 @@ You can run the app locally by cloning the [smartfacerecognition](https://github
    This start the server on port 3000(if no port provided).
   
 3. You are ready to go :) 
+   
    Open http://localhost:3000 to view the app in browser.
