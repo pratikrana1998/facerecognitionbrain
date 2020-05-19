@@ -15,13 +15,13 @@ You can run the app locally by cloning the [smartfacerecognition](https://github
 
    ### npm start
    
-  This runs the app in the development mode.
+   This runs the app in the development mode.
 
 2. On the second terminal, map into the directory smart-brain-api and run:
 
    ### nodemon server.js
    
-  This start the server on port 3000(if no port provided).
+   This start the server on port 3000(if no port provided).
   
 3. You are ready to go :) 
    Open http://localhost:3000 to view the app in browser.
